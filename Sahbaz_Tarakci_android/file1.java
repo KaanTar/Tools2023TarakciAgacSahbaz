@@ -6,6 +6,7 @@ public void thisIsANewMethod() {
     for (int i = 0; i < 5; i++) {
         System.out.println("Hi again - its me, Kaan");
     }
+    int x = 19;
 }
 
 Hallo Amel
