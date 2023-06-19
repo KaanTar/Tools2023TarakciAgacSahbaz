@@ -1,8 +1,8 @@
 Hallo 
 
-public void thisIsANewMethod() {
-    int x = 10;
- }
+public void thisIsANewMethod() { 
+    int x = 20;
+}
 
 Hallo Amel
 
