@@ -1,7 +1,7 @@
 Hallo 
 
 public void thisIsANewMethod() { 
-    int x = 20;
+    int x = 19;
 }
 
 Hallo Amel
