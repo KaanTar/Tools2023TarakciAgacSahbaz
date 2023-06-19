@@ -1,1 +1,3 @@
-Hallo
+Hallo 
+
+public void thisIsANewMethod() { }
